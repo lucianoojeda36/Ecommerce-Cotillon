@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524422559921",
+    "project_id": "cotillon-react-native",
+    "storage_bucket": "cotillon-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524422559921:android:c08d2781864e7533c7ca90",
+        "android_client_info": {
+          "package_name": "com.ecommercecotillon1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524422559921-p6gedme04eqq45guufql5i4n9orn8vt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2OBiaCUBnlCwk5ekOzyh7tUY_EiUGpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524422559921-p6gedme04eqq45guufql5i4n9orn8vt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
